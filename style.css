@@ -176,6 +176,7 @@ nav{
     border-radius: 1px 9px;
     cursor: pointer;
     height: 100%;
+    width: 300px;
     overflow: hidden;
     position: relative;
     transition: all 1s ease-out;
